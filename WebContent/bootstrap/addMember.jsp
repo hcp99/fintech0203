@@ -8,7 +8,7 @@
 <script src="//code.jquery.com/jquery.min.js"></script>
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.min.js"></script>
 <script>
-	$(document).ready(function () {
+	$(document).ready(function () {  
 	   $(function () {
 		    /* 전화번호를 입력시 하이폰 추가 , event는 변수 */
 	            $('.phone').keydown(function (event) {
